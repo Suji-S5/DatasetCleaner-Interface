@@ -15,10 +15,11 @@ Dataset Cleaner is a simple python based Interface built using Streamlit that al
 ### Install them using :
 pip install streamlit pandas
 # 2.Run the app
-In the same folder where app.py is located,run:
+In the same folder where app.py is located,
+run: 
 streamlit run app.py
 # Project Files
-DatasetCleaner.py->MAin Streamlit code
+DatasetCleaner.py->Main Streamlit code , 
 sample CSV file->A sample file to test the app
 # Usage Tips
 - Make sure your file is in .csv format
